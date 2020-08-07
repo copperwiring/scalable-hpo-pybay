@@ -1,6 +1,6 @@
 # Scalable Hyper-parameter Optimization using RAPIDS and AWS
 
-Presented at [PyBay](http://pybay.com/) in August 2020. This repository will contain the code and slides for our talk. #ToDos - add talk recording youtube link and pybay link.
+Presented at [PyBay](http://pybay.com/) in August 2020. This repository will contain the code and slides for our talk. #ToDos - add talk recording youtube link and pybay link, logos, host the presentation on gh-pages? or build powerpoint?
 
 ## Suggested Reading
 * [rapidsai/cloud-ml-examples](https://github.com/rapidsai/cloud-ml-examples/)
@@ -15,6 +15,6 @@ Srishti is currently a graduate research assistant at Networked Robotics and Sen
 
 ### Akshit Arora
 
-Akshit is a deep learning solutions architect at NVIDIA focused on deploying machine learning and deep learning platforms at scale. As an architect, he helps accelerate deep learning pipelines using NVIDIA GPUs at Pinterest, Twitter and Snap. Previously at CU Boulder, he developed deep learning models to understand how students learn on an online learning platform. His work also includes predicting weather using LSTMs and automatically completing a painting in virtual reality using sketch-RNN. He is interested in creative applications of machine learning/deep learning and the wide set of possibilities it presents. 
+Akshit is a deep learning solutions architect at NVIDIA focused on deploying machine learning and deep learning platforms at scale. As an architect, he helps accelerate deep learning pipelines using NVIDIA GPUs at various tech companies. Previously at CU Boulder, he developed deep learning models to understand how students learn on an online learning platform. His work also includes predicting weather using LSTMs and automatically completing a painting in virtual reality using sketch-RNN. He is interested in creative applications of machine learning/deep learning and the wide set of possibilities it presents. 
 
 <i>Website: [aroraakshit.github.io](http://aroraakshit.github.io/) / Email me: [akshita@nvidia.com](mailto:akshita@nvidia.com) / Follow me on Twitter: [@_AkshitArora](https://twitter.com/_AkshitArora)</i>
