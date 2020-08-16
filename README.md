@@ -1,7 +1,8 @@
 # Scalable Hyper-parameter Optimization using RAPIDS and AWS
 
 Presented at [PyBay](http://pybay.com/) in August 2020. This repository contains the follwing:
-1. Code 
+1. Code for CPU based scalability
+2. Link for GPU based scalabilty: To be updated soon
 2. Slides: To be updated soon
 3. Video Recording of the talk: To be updated soon
 
