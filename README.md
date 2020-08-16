@@ -28,6 +28,7 @@ You can find the instructions here: [rapidsai/cloud-ml-examples](https://github.
 * [30x Faster Hyperparameter Search with Ray Tune and RAPIDS](https://medium.com/rapids-ai/30x-faster-hyperparameter-search-with-raytune-and-rapids-403013fbefc5) by Nanthini Balasubramanian.
 * [Parallel Jupyter Notebooks](https://andrewm4894.com/2019/04/27/parallel-jupyter-notebooks/) by Andrew Maguire.
 * [RAPIDS HPO](https://rapids.ai/hpo.html) getting started guide.
+* [Accelerated Machine Learning with RAPIDS](https://github.com/aroraakshit/AcceleratedMLwRAPIDS) talk by Akshit Arora.
 
 ## Talk Abstract
 > “Not sure if my novel ML model is giving the best accuracy it can!”
