@@ -16,7 +16,7 @@ You can find the instructions [here](https://github.com/copperwiring/scalable-hp
 * Installing [Papermill](https://papermill.readthedocs.io/en/latest/) and related dependencies.
 * Running the parameterized XGBoost demo notebook both sequentially and in parallel using MultiProcessing and Papermill.
 
-## GPU based scalability
+## Scaling HPO on GPUs
 You can find the instructions here: [rapidsai/cloud-ml-examples](https://github.com/rapidsai/cloud-ml-examples/). The notebook shown in the talk is [here](https://github.com/rapidsai/cloud-ml-examples/blob/master/aws/rapids_sagemaker_hpo.ipynb). The demo covers:
 
 * Single CPU, Multi CPU, Single GPU, Multi GPU workflows
@@ -52,7 +52,7 @@ Srishti is currently a graduate research assistant at Networked Robotics and Sen
 
 Akshit is a deep learning solutions architect at NVIDIA focused on deploying machine learning and deep learning platforms at scale. As an architect, he helps accelerate deep learning pipelines using NVIDIA GPUs at various tech companies. Previously at CU Boulder, he developed deep learning models to understand how students learn on an online learning platform. His work also includes predicting weather using LSTMs and automatically completing a painting in virtual reality using sketch-RNN. He is interested in creative applications of machine learning/deep learning and the wide set of possibilities it presents. 
 
-<i>Website: [aroraakshit.github.io](http://aroraakshit.github.io/) / Email me: [akshita@nvidia.com](mailto:akshita@nvidia.com) / Follow me on Twitter: [@_AkshitArora](https://twitter.com/_AkshitArora) / GitHub [@aroraakshit](https://github.com/aroraakshit) </i>
+<i>Website: [aroraakshit.github.io](http://aroraakshit.github.io/) / Email me: [akshita@nvidia.com](mailto:akshita@nvidia.com) / Follow me on Twitter: [@_AkshitArora](https://twitter.com/_AkshitArora) / GitHub: [@aroraakshit](https://github.com/aroraakshit) </i>
 
 ---
 
