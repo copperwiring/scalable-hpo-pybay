@@ -1,3 +1,6 @@
+<img src="assets/imgs/rapids_logo.png" width=200px>
+<img src="assets/imgs/sagemaker_logo.jpeg" width=100px>
+
 # Scalable Hyper-parameter Optimization using RAPIDS and AWS
 
 Presented at [PyBay](http://pybay.com/) in August 2020. This repository contains the follwing:
