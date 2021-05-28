@@ -47,7 +47,7 @@ We want something that can search for hyper-parameters (hyper-parameter search o
 
 Srishti is currently a graduate research assistant at Networked Robotics and Sensing Laboratory at Simon Fraser University, Canada. Her work revolves around the intersection of computer vision and machine learning where she actively use PyTorch, TensorFlow, Python, MATLAB, Numpy, Scipy, OpenCV, Matplotlib, GDAL, etc. scientific stack as well as cloud services like AWS. She is a founder of several developer community groups of Vancouver. In the past, she has given talks at Microsoft Open Source events, PyLadies and other machine learning groups. As a strong proponent of tech and diversity, her involvement goes beyond local community work. Recently she was one of the the chairs of Women in Computer Vision workshop co-hosted with CVPR, 2020 and was on the committee of the Women in Machine Learning workshop, 2019. 
 
-<i>Website: [srishti.dev](https://srishti.dev/) / Email me: [srishtiyadav0807@gmail.com](mailto:srishtiyadav0807+pybay@gmail.com) / Follow me on Twitter: [@_srishtiyadav](https://twitter.com/_srishtiyadav) / GitHub: [@copperwiring](https://github.com/copperwiring)</i>
+<i>Website: [srishti.dev](https://srishti.dev/) / Email me: [srishtiyadav0807@gmail.com](mailto:srishtiyadav0807+pybay@gmail.com) / GitHub: [@copperwiring](https://github.com/copperwiring)</i>
 
 ### **Akshit Arora**
 
